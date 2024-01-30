@@ -90,7 +90,6 @@ function App() {
         <div className="projects">
           <h2>Projects</h2>
           <div className="row">
-            {/* <div className="pro" onClick={() => window.open('https://blog-web07804.vercel.app', '_blank')}> */}
             <div className="pro" onClick={() => window.open('https://github.com/priyanshuyadav07804/Blog_App_Full_Stack', '_blank')}>
               <img
                 src={blog}
