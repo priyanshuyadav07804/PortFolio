@@ -88,7 +88,7 @@ main {
   top: 0;
   padding: 0.75rem;
   background: #14131a;
-  justify-content: end;
+  justify-content: flex-end;
 }
 .stiky svg{
   display: none;
