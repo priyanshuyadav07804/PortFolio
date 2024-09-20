@@ -67,7 +67,7 @@ function App() {
         <div className="profile">
           <div className="photo">
             <img
-              src="https://media.licdn.com/dms/image/D5603AQHDSOXD00w55A/profile-displayphoto-shrink_400_400/0/1706617614065?e=1712188800&v=beta&t=YTqbUYyv9fGVpMN2Hc_ekEpVHdeUhsg7E6JzYFznsno"
+              src="https://res.cloudinary.com/dkbqauksm/image/upload/v1726857146/u0mb1rjiwdcghxzm8glh.jpg"
               alt=""
             />
           </div>
